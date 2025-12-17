@@ -15,7 +15,7 @@ date: 2025-12-17
 AI嚼一遍，我再嚼一遍
 
 （AI帮我）绘图：  
-[scholarviz](https://scholarviz.com/)
+[ScholarViz](https://scholarviz.com/)  
 输入一个简单的指令就可以，网站会自动google相关的信息，调用多个最新大模型绘图  
 
 [NotebookLM](https://scholarviz.com/)  
