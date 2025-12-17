@@ -1,0 +1,27 @@
+---
+layout: post
+title: "躺着把学位拿了——AI工具篇"
+date: 2025-12-09
+---
+
+这个（大佬），能不能毕业  
+能毕业，自己写文章  
+这个（AI），能不能毕业  
+能毕业，自己想idea  
+这个（大佬）加上这个（AI），能不能躺着把毕了
+
+（AI帮我）读文献：  
+[Moonlight](https://www.themoonlight.io/)  
+AI嚼一遍，我再嚼一遍
+
+（AI帮我）绘图：  
+[scholarviz](https://scholarviz.com/)
+输入一个简单的指令就可以，网站会自动google相关的信息，调用多个最新大模型绘图  
+
+[NotebookLM](https://scholarviz.com/)  
+输入PDF或url，自动联网搜索并推理，生成信息图、图表  
+
+
+
+
+
